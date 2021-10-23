@@ -1,0 +1,605 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following authors was not born in England? ",
+      "correct_answer": "Arthur Conan Doyle",
+      "incorrect_answers": [
+        "Graham Greene",
+        "H G Wells",
+        "Arthur C Clarke"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote the 'A Song of Ice And Fire' fantasy novel series?",
+      "correct_answer": "George R. R. Martin",
+      "incorrect_answers": [
+        "George Lucas",
+        "George Orwell",
+        "George Eliot"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "George Orwell wrote this book, which is often considered a statement on government oversight.",
+      "correct_answer": "1984",
+      "incorrect_answers": [
+        "The Old Man and the Sea",
+        "Catcher and the Rye",
+        "To Kill a Mockingbird"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which author and poet famously wrote the line, 'The female of the species is more deadly than the male'?",
+      "correct_answer": "Rudyard Kipling",
+      "incorrect_answers": [
+        "Edgar Allan Poe",
+        "William Shakespeare",
+        "William Wordsworth"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+      "correct_answer": "Badger",
+      "incorrect_answers": [
+        "Fox",
+        "Frog",
+        "Rabbit"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who wrote the novel 'Moby-Dick'?",
+      "correct_answer": "Herman Melville",
+      "incorrect_answers": [
+        "William Golding",
+        "William Shakespeare",
+        "J. R. R. Tolkien"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many books are in the Chronicles of Narnia series?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "6",
+        "8",
+        "5"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the book 'The Martian', how long was Mark Watney trapped on Mars (in Sols)?",
+      "correct_answer": "549 Days",
+      "incorrect_answers": [
+        "765 Days",
+        "401 Days",
+        "324 Days"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is the world&#039;s best-selling book?",
+      "correct_answer": "The Lord of the Rings",
+      "incorrect_answers": [
+        "The Little Prince",
+        "Harry Potter and the Philosopher&#039;s Stone",
+        "The Da Vinci Code"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote the 1967 horror novel 'Rosemary&#039;s Baby'?",
+      "correct_answer": "Ira Levin",
+      "incorrect_answers": [
+        "Stephen King",
+        "Robert Bloch",
+        "Mary Shelley"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
+      "correct_answer": "Oswald",
+      "incorrect_answers": [
+        "James",
+        "Harold",
+        "Christopher"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Harry Potter universe, who does Draco Malfoy end up marrying?",
+      "correct_answer": "Astoria Greengrass",
+      "incorrect_answers": [
+        "Pansy Parkinson",
+        "Millicent Bulstrode",
+        "Hermione Granger"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is Hermione Granger&#039;s middle name?",
+      "correct_answer": "Jean",
+      "incorrect_answers": [
+        "Jane",
+        "Emma",
+        "Jo"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is Ron Weasley&#039;s middle name?",
+      "correct_answer": "Bilius",
+      "incorrect_answers": [
+        "Arthur",
+        "John",
+        "Dominic"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Lord of the Rings, who is the father of the dwarf Gimli?",
+      "correct_answer": "Gloin",
+      "incorrect_answers": [
+        "Thorin Oakenshield",
+        "Bombur",
+        "Dwalin"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?",
+      "correct_answer": "The Artful Dodger",
+      "incorrect_answers": [
+        "Fagin",
+        "Bull&rsquo;s-eye",
+        "Mr. Fang"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?",
+      "correct_answer": "Hunter S. Thompson",
+      "incorrect_answers": [
+        "F. Scott Fitzgerald",
+        "Henry Miller",
+        "William S. Burroughs"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "'Green Eggs And Ham' is a book by which author?",
+      "correct_answer": "Dr. Seuss",
+      "incorrect_answers": [
+        "Beatrix Potter",
+        "Roald Dahl",
+        "A.A. Milne"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "By what name was the author Eric Blair better known?",
+      "correct_answer": "George Orwell",
+      "incorrect_answers": [
+        "Aldous Huxley",
+        "Ernest Hemingway",
+        "Ray Bradbury"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the pen name of novelist, Mary Ann Evans?",
+      "correct_answer": "George Eliot",
+      "incorrect_answers": [
+        "George Orwell",
+        "George Bernard Shaw",
+        "George Saunders"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote the children&#039;s story 'The Little Match Girl'?",
+      "correct_answer": "Hans Christian Andersen",
+      "incorrect_answers": [
+        "Charles Dickens",
+        "Lewis Carroll",
+        "Oscar Wilde"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+      "correct_answer": "Richard Bachman",
+      "incorrect_answers": [
+        "J. D. Robb",
+        "Mark Twain",
+        "Lewis Carroll"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What&#039;s Harry Potter&#039;s dad&#039;s name?",
+      "correct_answer": "James Potter",
+      "incorrect_answers": [
+        "Joey Potter",
+        "Frank Potter",
+        "Hairy Potter Sr."
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The novel 'Of Mice And Men' was written by what author? ",
+      "correct_answer": "John Steinbeck ",
+      "incorrect_answers": [
+        "George Orwell",
+        "Mark Twain ",
+        "Harper Lee"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the young adult novel 'The Fault in Our Stars'?",
+      "correct_answer": "John Green",
+      "incorrect_answers": [
+        "Stephenie Meyer",
+        "Suzanne Collins",
+        "Stephen Chbosky"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these does Charlie NOT read in The Perks of Being a Wallflower?",
+      "correct_answer": "The Grapes of Wrath",
+      "incorrect_answers": [
+        "Hamlet",
+        "The Great Gatsby",
+        "Peter Pan"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+      "correct_answer": "Frankenstein&#039;s monster",
+      "incorrect_answers": [
+        "Dracula",
+        "The Thing",
+        "The Invisible Man"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+      "correct_answer": "Fluffy",
+      "incorrect_answers": [
+        "Spike",
+        "Poofy",
+        "Spot"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+      "correct_answer": "Holden Caulfield",
+      "incorrect_answers": [
+        "Fletcher Christian",
+        "Jay Gatsby",
+        "Randall Flagg"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+      "correct_answer": "A Study in Scarlet",
+      "incorrect_answers": [
+        "The Sign of the Four",
+        "A Case of Identity",
+        "The Doings of Raffles Haw"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Michael Crichton&#039;s novel 'Jurassic Park', John Hammond meets his demise at the claws of which dinosaur?",
+      "correct_answer": "Procompsognathus",
+      "incorrect_answers": [
+        "Dilophosaurus",
+        "Tyrannosaurus Rex",
+        "Velociraptor"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 'Harry Potter' novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+      "correct_answer": "Answer a riddle",
+      "incorrect_answers": [
+        "Rhythmically tap barrels with a wand",
+        "Speak a password",
+        "Knock in sequence"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+      "correct_answer": "The Greasers",
+      "incorrect_answers": [
+        "The Outsiders",
+        "The Mafia",
+        "The Socs"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The book 'Fahrenheit 451' was written by whom?",
+      "correct_answer": "Ray Bradbury",
+      "incorrect_answers": [
+        "R. L. Stine",
+        "Wolfgang Amadeus Mozart",
+        "Stephen King"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Sherlock Holmes&#039;s brother?",
+      "correct_answer": "Mycroft Holmes",
+      "incorrect_answers": [
+        "Mederi Holmes",
+        "Martin Holmes",
+        "Herbie Hancock Holmes"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
+      "correct_answer": "The Dresden Files",
+      "incorrect_answers": [
+        "A Hat in Time",
+        "The Cinder Spires",
+        "My Life as a Teenage Wizard"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the last message of the Dolphins in 'The Hitchhiker&#039;s Guide to the Galaxy'?",
+      "correct_answer": "'So long, and thanks for all the fish.'",
+      "incorrect_answers": [
+        "'The answer is 42.'",
+        "'Land of the brave.'",
+        "'Goodbye cruel world!'"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the make and model of the tour vehicles in 'Jurassic Park'?",
+      "correct_answer": "1992 Toyota Land Cruiser",
+      "incorrect_answers": [
+        "1992 Jeep Wrangler YJ Sahar",
+        "1992 Ford Explorer XLT",
+        "Mercedes M-Class"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Margaret Atwood&#039;s 'The Handmaid&#039;s Tale', what is Offred&#039;s real name is implied to be?",
+      "correct_answer": "June",
+      "incorrect_answers": [
+        "August",
+        "April",
+        "May"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following was the author of 'Username Evie'?",
+      "correct_answer": "Joe Sugg",
+      "incorrect_answers": [
+        "Zoe Sugg",
+        "Joe Weller",
+        "Alfie Deyes"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 'Little Women', which of the March sisters married Laurie?",
+      "correct_answer": "Amy",
+      "incorrect_answers": [
+        "Beth",
+        "Jo",
+        "Meg"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",
+      "correct_answer": "Sarpadia",
+      "incorrect_answers": [
+        "Otaria",
+        "Terisiare",
+        "Shiv"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+      "correct_answer": "Ulgrotha",
+      "incorrect_answers": [
+        "Bant",
+        "Llanowar",
+        "Tazeem"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+      "correct_answer": "A Clash of Kings",
+      "incorrect_answers": [
+        "A Dance with Dragons",
+        "A Storm of Swords",
+        "A Feast for Crows"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of Eragon&#039;s dragon in 'Eragon'?",
+      "correct_answer": "Saphira",
+      "incorrect_answers": [
+        "Glaedr",
+        "Thorn",
+        "Arya"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the name of the fictional SCP Foundation, what does the 'SCP' stand for?",
+      "correct_answer": "Special Containment Procedures",
+      "incorrect_answers": [
+        "Secure, Contain, Protect",
+        "Supernatural Creature Preservation",
+        "Silent Community Protection"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first ever entry written for the SCP Foundation collaborative writing project?",
+      "correct_answer": "SCP-173",
+      "incorrect_answers": [
+        "SCP-001",
+        "SCP-999",
+        "SCP-1459"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is NOT a book in the Harry Potter Series?",
+      "correct_answer": "The House Elf",
+      "incorrect_answers": [
+        "The Chamber of Secrets",
+        "The Prisoner of Azkaban",
+        "The Deathly Hallows"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",
+      "correct_answer": "INGSOC",
+      "incorrect_answers": [
+        "Neo-Bolshevism",
+        "Obliteration of the Self",
+        "Earth Alliance"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which author co-wrote 'The Communist Manifesto' alongside Karl Marx?",
+      "correct_answer": "Friedrich Engels",
+      "incorrect_answers": [
+        "Robert Owen",
+        "Alexander Kerensky",
+        "Paul Lafargue"
+      ]
+    }
+  ]
+}
